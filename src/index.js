@@ -31,7 +31,39 @@
 // val4.addres = "北海道";
 // console.log(val4);
 
-const val5 = ["dog", "cat"];
-val5[0] = "bird";
-val5.push("monkey");
-console.log(val5);
+// const val5 = ["dog", "cat"];
+// val5[0] = "bird";
+// val5.push("monkey");
+// console.log(val5);
+
+// const name = "さとし";
+// const age = 28;
+
+// const message1 = "私の名前は" + name + "です。年齢んは" + age + "です";
+
+// console.log(message1);
+
+// //テンプレート
+
+// const message2 = `私の名前は${name}です。年齢は${age}です`;
+
+// console.log(message2);
+
+// アロー関数
+
+// //従来の関数
+// function func1(str) {
+//   return str;
+// }
+
+// console.log(func1("func1です"));
+
+// アロー関数の使い方
+
+// const func2 = (str) => str;
+// console.log(func2("func2です"));
+
+// const func3 = (num1, num2) => {
+//   return num1 + num2;
+// };
+// console.log(func3(10, 30));
