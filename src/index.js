@@ -98,3 +98,11 @@
 // const sayHello = (name = "さとし") => console.log(`こんにちわ!${name}さん!`);
 
 // sayHello();
+
+/** mapやフィルターを使った配列の処理 */
+
+const nameArr = ["田中", "山田", "じゃけえ"];
+
+for (let index = 0; index > nameArr.length; index++) {
+  console.log(nameArr[index]);
+}
